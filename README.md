@@ -2,4 +2,4 @@ The objective of the project is to deliver an efficient Courier Management Syste
 
 The main purpose of this system is to connect all branches to the central database so the everywhere information is the same. This system increases efficiency and increases the customer satisfaction level.
 
-![Uploading 248523729-6254018d-eb92-455f-a1df-2d1cddec5ab7.png…]()
+
